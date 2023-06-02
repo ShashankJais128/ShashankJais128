@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Shashank Jaiswal, currently a student of 2nd year CSE in KIIT.
-- 🌱 I’m currently learning DSA and WEB DEVELOPMENT
+- 👋 Hi, I’m Shashank Jaiswal, currently a student of 3rd year CSE in KIIT.
+- 🌱 I do web development in ReactJs with Taiwind CSS
 -👀 I’m also interested in design.
-- 💞️ I’m looking to collaborate on projects related to frontend web developmet.
+- 💞️ I’m looking to collaborate on projects related to web developmet.
 - 📫 You can reach me on Linkedin:https: www.linkedin.com/in/shashank-jaiswal-1208 ,Instagram: https://www.instagram.com/shashankjaiswal.12/ 
 
 <!---
